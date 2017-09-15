@@ -1,0 +1,1 @@
+execVM "buildcam\buildCamInit.sqf";
